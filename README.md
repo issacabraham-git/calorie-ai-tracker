@@ -64,6 +64,8 @@ An AI-powered Android calorie tracking app with a fully serverless AWS backend. 
 │  • JWT token → userId (sub) used as DynamoDB key        │
 └─────────────────────────────────────────────────────────┘
 ```
+Click to view detailed system design:  
+📄 [Architecture Document](./architecture.md)
 
 ---
 
